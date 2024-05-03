@@ -1,0 +1,5 @@
+.error-span {
+  color: red;
+  display: flex;
+  font-size: 10px;
+}
